@@ -4,4 +4,4 @@ I have created a website under a custom domain bajino.in under which I have crea
       
       -> Session management system within the Logged in page
       
-The codes for my website is compressed into a zip file and the file ios provided in my repository.
+The codes for my website is compressed into a zip file and the file is provided in my repository.
